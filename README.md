@@ -1,3 +1,3 @@
-# google-home-page
+Google-home-page
 
-practice for the odin project
+practice for the odin projects
